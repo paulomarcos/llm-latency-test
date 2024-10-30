@@ -105,9 +105,7 @@ Here is the result of the test
 > 👉 [Click here](https://docs.google.com/spreadsheets/d/1dn7hzIam1i5zaSdt-FhWTH0-ZH6lmdFsEvNclidmkGY/edit?usp=sharing) to view the full sheet with the results and the repository with the code.
 
 We can see that, for this particular test,
-Google Gemini was the fastest, while GPT-3 was
-close by and, for some reason, GPT-4 had
-a very long response time.
+on average GPT-3 was faster than the other models.
 
 > ℹ️ Keep in mind that various factors influence the latency of an API response. Elements such as Server Load, Network Latency, and Endpoint Processing Time play significant roles. For a comprehensive breakdown of these points, I suggest asking ChatGPT: `Give a list of things that can impact the latency time of an API request`
 
@@ -307,7 +305,7 @@ If you enjoyed this article, you will definitely enjoy the newsletter: on top of
 these articles, I compile tutorials, tips and use-cases to further improve
 productivity and reduce costs with AI. Available on the link below:
 
-> 👉 [Learn the best ways to use AI to reduce costs and increase productivity straight to your inbox, for free](https://wolfflow-ai.com/subscribe)
+> 👉 [Learn the best ways to use AI to reduce costs and increase productivity straight to your inbox, for free](https://wolfflow-ai.beehiiv.com/subscribe)
 
 Thank you very much for reading this whole article,
 and I see you next time.
